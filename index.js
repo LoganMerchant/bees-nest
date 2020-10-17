@@ -5,4 +5,4 @@ const department = new Department;
 const role = new Role;
 const employee = new Employee;
 
-employee.getEmployees();
+employee.updateEmployeeRole(1, 5);
