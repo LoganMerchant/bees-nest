@@ -1,8 +1,9 @@
-const Department = require('./lib/departmentQueries');
-const Role = require('./lib/roleQueries');
-const Employee = require('./lib/employeeQueries');
-const department = new Department;
-const role = new Role;
-const employee = new Employee;
+const makeQuery = require('./lib/prompts');
 
-employee.updateEmployeeRole(1, 5);
+makeQuery();
+
+// const Department = require('./lib/departmentQueries');
+
+// const department = new Department;
+
+// department.getDepartmentNames();
