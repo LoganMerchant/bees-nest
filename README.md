@@ -24,7 +24,12 @@ To install this application, you will need to clone this repository to your loca
 
 
 ## Usage
+** [Node.js](https://nodejs.org/en/) is required for this application **
+<br>
+<br>
 To use this project, type `npm start` or `node index.js` from your command line. Once the application is up-and-running, look through the list of possible actions you can take, select one, and answer any following prompts. Once you are finished with the application, navigate down to `Quit the application.` to exit.
+<br>
+You can find a video walkthrough [here](https://drive.google.com/file/d/1BUj8PRpM8Bp6cjNHlp6EO1wfotdwbPei/view?usp=sharing).
 
 
 ## How to Contribute
