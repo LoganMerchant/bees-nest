@@ -1,3 +1,3 @@
-const makeQuery = require('./lib/prompts');
+const initialize = require('./lib/prompts');
 
-makeQuery();
+initialize();
